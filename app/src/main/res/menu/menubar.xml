@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id="@+id/action_search"
+        android:title="@string/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        yourapp:showAsAction="ifRoom|collapseActionView"
+        yourapp:actionViewClass="android.support.v7.widget.SearchView" />
+
+    <item android:id="@+id/green_action"
+        android:title="@string/green_string" />
+
+    <item android:id="@+id/wellness_action"
+        android:title="@string/wellness_string" />
+
+    <item android:id="@+id/family_action"
+        android:title="@string/family_string" />
+
+    <item android:id="@+id/food_action"
+        android:title="@string/food_string" />
+
+    <item android:id="@+id/spirituality_action"
+        android:title="@string/spirituality_string" />
+
+    <item android:id="@+id/society_action"
+        android:title="@string/society_string" />
+
+    <item android:id="@+id/funny_action"
+        android:title="@string/funny_string" />
+
+    <item android:id="@+id/love_action"
+        android:title="@string/love_string" />
+
+    <item android:id="@+id/wow_action"
+        android:title="@string/wow_string" />
+
+    <item android:id="@+id/talk_show_action"
+        android:title="@string/talk_show_string" />
+
+    <item android:id="@+id/yoga_action"
+        android:title="@string/yoga_string" />
+</menu>

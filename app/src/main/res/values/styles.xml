@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="ElephantTheme" parent="@android:style/Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/TheActionBar</item>
+    </style>
+
+    <style name="TheActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#EF8713</item>
+        <item name="android:titleTextStyle">@style/TheActionBarTextColor</item>
+        <item name="android:icon">@drawable/logo</item>
+    </style>
+
+    <style name="TheActionBarTextColor" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

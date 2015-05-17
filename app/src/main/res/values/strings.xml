@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Elephant Journal</string>
+    <string name="action_search">Search</string>
+    <string name="green_string">Green</string>
+    <string name="wellness_string">Wellness</string>
+    <string name="family_string">Family</string>
+    <string name="food_string">Food</string>
+    <string name="spirituality_string">Spirituality</string>
+    <string name="society_string">Society</string>
+    <string name="funny_string">Funny</string>
+    <string name="love_string">Love</string>
+    <string name="wow_string">Wow</string>
+    <string name="talk_show_string">Talk Show</string>
+    <string name="yoga_string">Yoga</string>
+</resources>
